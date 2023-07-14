@@ -1,0 +1,6 @@
+# Book-Recommendation-System
+
+This project presents the development of a book recommendation system using machine learning techniques. The system was implemented using Pyspark, an open-source big data processing framework, and the ALS(Alternating Least Square) model was used to make recommendations. The backend database used was PostgreSQL, a powerful open-source relational database management system. The developed system was integrated into a website, allowing users to interact with the recommendation system and receives personalized book recommendations based on their preferences. The webisite provides a user-friendly interface for users to search for books and view their recommendations.
+The project focused on improving the accuracy and relevance of the recommendations by incorporating user feedback and improving the data quality. 
+The system was evaluated using various performance metrics, such as RMSE(Root mean square error) and achived satisfactory results.
+Overall, this project demonstrates the effectiveness of machine learning techniques in developing personalized book recommendation system and provides a practical solution for book enthusiasts looking for relevant and personalized book recommendations.
